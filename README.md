@@ -1,4 +1,4 @@
-### Lisa Koutsoviti | MSc Data Science Society Assignments
+### Lisa Koutsoviti | TiU MSc Data Science Society | Assignments
 
 This repository contains three assignments that were made as part of courses of the MSc Data Science and Society, Department of Humanities and Digital Sciences at Tilburg University.
 
@@ -12,11 +12,11 @@ This repository contains three assignments that were made as part of courses of 
 
   In the second task (multilabel classification) we had to use the classifiers trained in the first task to identify a series of 5 letters in an image of size 30 × 150. However, compared to the training images, these images are noisy each consisting of a series letters. Example: The label for the first image is ‘2118161513’. The letters in the image are: ‘urpom’. We had to encode/decode the label as: u = 21, r = 18, p=16, o=15, m=13. We had to submit a csv file containing 5 predicted labels per image based on a probability distribution over the 26 letters.
 
-    References
+      References
 
-    [1] Original Dataset https://www.nist.gov/itl/products-and-services/ emnist-dataset
+      [1] Original Dataset https://www.nist.gov/itl/products-and-services/ emnist-dataset
 
-    [2] Gregory Cohen, Saeed Afshar, Jonathan Tapson, and Andre van Schaik EMNIST: an extension of MNIST to handwritten letter in: International Joint Conference on Neural Networks (IJCNN), 2017
+      [2] Gregory Cohen, Saeed Afshar, Jonathan Tapson, and Andre van Schaik EMNIST: an extension of MNIST to handwritten letter in: International Joint Conference on Neural Networks (IJCNN), 2017
 
 - Assignment 2: Deep Learning 
 
