@@ -14,11 +14,11 @@ This repository contains three assignments that were made as part of courses of 
 
   In this task we were judged based on a top-5-accuracy. The test dataset is a list of 10000 images. We had to submit a csv file containing 5 predicted labels per image separated by comma. The output of our classifier was a probability distribution over the 26 letters. We used the sliding window to recognise each letter in the image.
 
-References
+    References
 
-[1] Original Dataset https://www.nist.gov/itl/products-and-services/ emnist-dataset
+    [1] Original Dataset https://www.nist.gov/itl/products-and-services/ emnist-dataset
 
-[2] Gregory Cohen, Saeed Afshar, Jonathan Tapson, and Andre van Schaik EMNIST: an extension of MNIST to handwritten letter in: International Joint Conference on Neural Networks (IJCNN), 2017
+    [2] Gregory Cohen, Saeed Afshar, Jonathan Tapson, and Andre van Schaik EMNIST: an extension of MNIST to handwritten letter in: International Joint Conference on Neural Networks (IJCNN), 2017
 
 - Assignment 2: Deep Learning 
 
