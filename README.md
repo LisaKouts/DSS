@@ -8,7 +8,7 @@ This repository contains three assignments that were made as part of courses of 
 
   The pdf file includes a description of our experiments and results including features used, learning model and algorithm, parameter tuning, description of method or system built to perform classification and references.
 
-  In this assignment there were two separate tasks. The first task (multiclass classification) was to train a model to recognize handwritten English letters (EMNIST dataset, 124800 images and labels, 4800 different images per label.
+  In this assignment there were two separate tasks. The first task (multiclass classification) was to train a model to recognize handwritten English letters (124800 images and labels, 4800 different images per label.
 
   In the second task (multilabel classification) we had to use the classifiers trained in the first task to identify a series of 5 letters in an image of size 30 × 150. However, compared to the training images, these images are noisy each consisting of a series letters. Example: The label for the first image is ‘2118161513’. The letters in the image are: ‘urpom’. We had to encode/decode the label as: u = 21, r = 18, p=16, o=15, m=13. We had to submit a csv file containing 5 predicted labels per image based on a probability distribution over the 26 letters.
 
