@@ -18,3 +18,5 @@ References
 [1] Original Dataset https://www.nist.gov/itl/products-and-services/ emnist-dataset
 
 [2] Gregory Cohen, Saeed Afshar, Jonathan Tapson, and Andre van Schaik EMNIST: an extension of MNIST to handwritten letter in: International Joint Conference on Neural Networks (IJCNN), 2017
+
+- Assignment 1: Deep Learning 
