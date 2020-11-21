@@ -1,4 +1,4 @@
-### Lisa_Koutsoviti_MSc_Data_Science_Society_Assignments
+### Lisa Koutsoviti | MSc Data Science Society Assignments
 
 This repository contains three assignments that were made as part of courses of the MSc Data Science and Society, Department of Humanities and Digital Sciences at Tilburg University.
 
