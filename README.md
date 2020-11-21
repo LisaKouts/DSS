@@ -8,7 +8,7 @@ This repository contains three assignments that were made as part of courses of 
 
   In this assignment there were two separate tasks. The first task (multiclass classification) was to train a model to recognize handwritten English letters (124800 images and labels, 4800 different images per label.
 
-  In the second task (multilabel classification) we had to use the classifiers trained in the first task to identify a series of 5 letters in an image of size 30 × 150. However, compared to the training images, these images are noisy each consisting of a series letters. Example: The label for the first image is ‘2118161513’. The letters in the image are: ‘urpom’. We had to encode/decode the label as: u = 21, r = 18, p=16, o=15, m=13. We had to submit a csv file containing 5 predicted labels per image based on a probability distribution over the 26 letters.
+  In the second task (multilabel classification) we had to use the classifiers trained in the first task to identify a series of 5 letters in an image of size 30 × 150. These images were noisy. Example: The label for the first image is ‘2118161513’. The letters in the image are: ‘urpom’. We had to encode/decode the label as: u = 21, r = 18, p=16, o=15, m=13. We had to submit a csv file containing 5 predicted labels per image based on a probability distribution over the 26 letters.
 
       References
 
@@ -25,4 +25,5 @@ This repository contains three assignments that were made as part of courses of 
 - Assignment 3: 
 
   This is a mandatory group-assignment that was created for the course Deep Learning during the winter semester of 2020. Team members were Vira H., Trang L., Sue Y., Jennifer Z.L. and myself. Grade received was 8.5/10 which was worth 30% of the final grade. The teams had to chose a dataset and a reasearch topic and write a short research paper using R software environment. 
+  
   We attempted to predict song popularity based on Kaggle’s Spotify dataset (Singh, 2020). We had to preprocess the data (cleaning, EDA) and fit models using the knn and logistic regression classifiers. Main packages used were dplyr, ggplot2 and caret. The highest accuracy score was 64% using logistic regression on the full set of attributes. 
