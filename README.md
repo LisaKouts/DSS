@@ -24,6 +24,6 @@ This repository contains three assignments that were made as part of courses of 
 
 - Assignment 3: 
 
-  This is a mandatory group-assignment that was created for the course Deep Learning during the winter semester of 2020. Team members were Vira H., Trang L., Sue Y., Jennifer Z.L. and myself. Grade received was 8.5/10 which was worth 30% of the final grade. The teams had to chose a dataset and a reasearch topic and write a short research paper using R software environment. 
+  This is a mandatory group-assignment that was created for the course Programming with R during the winter semester of 2020. Team members were Vira H., Trang L., Sue Y., Jennifer Z.L. and myself. Grade received was 8.5/10 which was worth 30% of the final grade. The teams had to chose a dataset and a reasearch topic and write a short research paper using R software environment. 
   
   We attempted to predict song popularity based on Kaggle’s Spotify dataset (Singh, 2020). We had to preprocess the data (cleaning, EDA) and fit models using the knn and logistic regression classifiers. Main packages used were dplyr, ggplot2 and caret. The highest accuracy score was 64% using logistic regression on the full set of attributes. 
